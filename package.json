@@ -1,0 +1,26 @@
+{
+  "name": "react-native-template",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "babel-eslint": "^6.0.2",
+    "eslint": "^2.7.0",
+    "eslint-config-airbnb": "^7.0.0",
+    "eslint-plugin-react": "^4.3.0",
+    "react-native": "^0.23.1",
+    "react-native-swipeout": "^2.0.12",
+    "redux": "^3.4.0"
+  },
+  "description": "architecture build",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "redux",
+    "webpack"
+  ],
+  "author": "Alexander Yushchak (aka Coderbit)",
+  "license": "ISC"
+}
